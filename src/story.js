@@ -1,4 +1,4 @@
-export const siteConfig={title:'Eternally, Mommy',musicPath:'/audio/a-thousand-years.mp3',musicCutoffSeconds:87,defaultMusicVolume:.32,sceneDuration:15000};
+export const siteConfig={title:'Eternally, Mommy',musicPath:'/audio/a-thousand-years.mp3',defaultMusicVolume:.32,sceneDuration:15000};
 export const chapters=[
 {id:'capstone',number:'I',title:'Before There Was Us',subtitle:'Our capstone days, 2025',message:'Back in 2025, during our capstone days, I never imagined that someone so special was already becoming part of my story. Somewhere between ordinary moments, I started liking you.',tone:'midnight'},
 {id:'crush',number:'II',title:'The Secret Between Us',subtitle:'The sweetest plot twist',message:'I was secretly falling for you. What I did not know was that you had a crush on me too -- and that you had liked me for a long time already.',tone:'violet'},
