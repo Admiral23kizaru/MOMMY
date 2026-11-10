@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vercel/
+
+.env
+.env.local
+.env.*.local
+
+*.log
+.DS_Store
+Thumbs.db
+
+# Local source/backup assets; optimized runtime assets live in public/.
+pic/
+pic.zip
+design/
+Christina Perri - A Thousand Years.mp3
